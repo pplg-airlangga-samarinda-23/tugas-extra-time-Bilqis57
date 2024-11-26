@@ -45,39 +45,39 @@
                 <tbody id="table-body">
                     <tr>
                         <td>1</td>
-                        <td>Pempes</td>
-                        <td>2023-11-01</td>
-                        <td>50</td>
+                        <td>Macaron</td>
+                        <td>2024-11-15</td>
+                        <td>100</td>
                         <td>Baik</td>
+                        <td>60</td>
                         <td>40</td>
-                        <td>10</td>
                     </tr>
                     <tr>
                         <td>2</td>
-                        <td>Susu</td>
-                        <td>2023-10-15</td>
-                        <td>30</td>
-                        <td>Rusak</td>
-                        <td>20</td>
+                        <td>Ice Cream Mango</td>
+                        <td>2024-07-10</td>
+                        <td>60</td>
+                        <td>Baik</td>
+                        <td>50</td>
                         <td>10</td>
                     </tr>
                     <tr>
                         <td>3</td>
-                        <td>Telur</td>
-                        <td>2023-11-12</td>
-                        <td>30</td>
-                        <td>Rusak</td>
-                        <td>20</td>
+                        <td>Chocolate Bar</td>
+                        <td>2023-08-27</td>
+                        <td>80</td>
+                        <td>Baik</td>
+                        <td>70</td>
                         <td>10</td>
                     </tr>
                     <tr>
                         <td>4</td>
-                        <td>Ayam</td>
-                        <td>2023-12-15</td>
-                        <td>30</td>
+                        <td>Pancakes</td>
+                        <td>2023-11-11</td>
+                        <td>40</td>
                         <td>Rusak</td>
-                        <td>20</td>
-                        <td>10</td>
+                        <td>35</td>
+                        <td>5</td>
                     </tr>
                 </tbody>
             </table>
